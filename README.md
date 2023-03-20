@@ -1,1 +1,1 @@
-# TalenGen Prototype
+# TalenGen Landing Page
